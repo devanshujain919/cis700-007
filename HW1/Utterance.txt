@@ -1,0 +1,6 @@
+HelloIntent What's up
+HelloIntent Hi
+HelloIntent Hey
+HelloIntent Hello
+SetMyNameIntent My name is {Mr. X | myName}
+GetMyNameIntent What is my name
