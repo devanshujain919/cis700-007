@@ -5,12 +5,19 @@ This homework required us to build a simple 'Hello World' application for Amazon
 ## Code Example
 
 you: "Alexa, open devanshutest"
+
 alexa: "Hi, there"
+
 you: "Hi"
+
 alexa: "Namaste"
+
 you: "My name is devanshu"
+
 alexa: "I got your name"
+
 you: "What is my name"
+
 alexa: "Your name is devanshu"
 
 ## Installation
